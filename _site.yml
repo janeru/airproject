@@ -1,0 +1,21 @@
+name: final_project about air
+navbar:
+  title: air project
+  left:
+  - text: index
+    href: index.html
+  - text: air_analysis
+    href: air.html
+  - text: Interaction Visualized
+    href: https://jane.shinyapps.io/interactive/
+output:
+  html_document:
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+    theme: flatly
+    css: style.css
+    lib_dir: site_libs
+    self_contained: no
+output_dir: _site
+
