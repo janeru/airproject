@@ -8,6 +8,7 @@ navbar:
     href: air.html
   - text: Interaction Visualized
     href: https://jane.shinyapps.io/interactive/
+
 output:
   html_document:
     toc: yes
@@ -18,4 +19,3 @@ output:
     lib_dir: site_libs
     self_contained: no
 output_dir: _site
-
